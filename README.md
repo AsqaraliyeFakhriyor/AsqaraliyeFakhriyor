@@ -3,6 +3,7 @@
 - My Skills:
 
 Languages, Frameworks and Libraries:
+
 Python - Python | JavaScript - JavaScript | Bootstrap - Bootstrap | Flask - Flask | PostgreSQL - SQL (PostgreSQL, SQLite)
 
 Tools:
